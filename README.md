@@ -39,8 +39,8 @@ Before running the script, ensure you have the following installed:
 Clone this repository or download the files manually.
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER_NAME>
+git clone wasyleque/video_to_webm_converter/
+cd video_to_webm_converter
 ```
 
 The script does not require any external Python libraries (the `requirements.txt` file is empty).
